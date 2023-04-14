@@ -3,9 +3,9 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585991299133)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ivan9rx_)
 
-![Ivan9rx GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan9rx&show_icons=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api?username=ivan9rx&show_icons=true&bg_color=00000000">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan9rx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 
 ### Tecnologias que uso frequetemente
 
@@ -15,4 +15,4 @@
   <img alt='javascript' align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000">
+
